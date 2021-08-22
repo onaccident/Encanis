@@ -1,0 +1,10 @@
+Event	ID	Name			Wwise Object Path	Notes
+	3038207054	Shoot			\Default Work Unit\Shoot	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	78953579	SFX_UILibrary_Success	D:\Unreal\Projects\Encanis\Encanis_WwiseProject\.cache\Mac\SFX\SFX_UILibrary_Success_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Shooting\SFX_UILibrary_Success		349636
+	347709200	SFX_UILibrary_Success-001	D:\Unreal\Projects\Encanis\Encanis_WwiseProject\.cache\Mac\SFX\SFX_UILibrary_Success-001_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Shooting\SFX_UILibrary_Success-001		394796
+	423326849	SFX_UILibrary_Success-004	D:\Unreal\Projects\Encanis\Encanis_WwiseProject\.cache\Mac\SFX\SFX_UILibrary_Success-004_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Shooting\SFX_UILibrary_Success-004		283660
+	852424117	SFX_UILibrary_Success-003	D:\Unreal\Projects\Encanis\Encanis_WwiseProject\.cache\Mac\SFX\SFX_UILibrary_Success-003_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Shooting\SFX_UILibrary_Success-003		273004
+	965785891	SFX_UILibrary_Success-002	D:\Unreal\Projects\Encanis\Encanis_WwiseProject\.cache\Mac\SFX\SFX_UILibrary_Success-002_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Shooting\SFX_UILibrary_Success-002		327744
+

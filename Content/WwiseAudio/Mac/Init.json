@@ -1,0 +1,26 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "12",
+  "SoundbankVersion": "140",
+  "RootPaths": {
+   "ProjectRoot": "D:\\Unreal\\Projects\\Encanis\\Encanis_WwiseProject\\",
+   "SourceFilesRoot": "D:\\Unreal\\Projects\\Encanis\\Encanis_WwiseProject\\.cache\\Mac\\",
+   "SoundBanksRoot": "D:\\Unreal\\Projects\\Encanis\\Content\\WwiseAudio\\Mac\\",
+   "ExternalSourcesInputFile": "",
+   "ExternalSourcesOutputRoot": "D:\\Unreal\\Projects\\Encanis\\Encanis_WwiseProject\\GeneratedSoundBanks\\Mac"
+  },
+  "SoundBanks": [
+   {
+    "Id": "1355168291",
+    "GUID": "{701ECBBD-9C7B-4030-8CDB-749EE5D1C7B9}",
+    "Language": "SFX",
+    "Hash": "2754342975",
+    "ObjectPath": "Init",
+    "ShortName": "Init",
+    "Path": "Init.bnk"
+   }
+  ]
+ }
+}
