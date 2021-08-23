@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{1AEBEB32-C0B8-4382-A05C-4D9D5BC80E82}" SchemaVersion="103">
+	<AudioObjects>
+		<WorkUnit Name="Default Work Unit" ID="{1AEBEB32-C0B8-4382-A05C-4D9D5BC80E82}" PersistMode="Standalone">
+			<ChildrenList>
+				<RandomSequenceContainer Name="Shooting" ID="{F66D752B-05FC-4FCA-8896-15A240F2164A}" ShortID="112314976">
+					<PropertyList>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>-7</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{A7933FE4-7CD0-42C7-8C37-D961C70F523D}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{189BC967-7719-4FC3-A802-EB73A67AD252}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<Sound Name="SFX_UILibrary_Success" ID="{112C3419-C3B9-4BB5-9E84-735A108C4ECD}" ShortID="37467220">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{A7933FE4-7CD0-42C7-8C37-D961C70F523D}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{189BC967-7719-4FC3-A802-EB73A67AD252}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="SFX_UILibrary_Success" ID="{9225ED91-A7FD-4945-A377-6BC9A29AA03B}">
+									<Language>SFX</Language>
+									<AudioFile>SFX_UILibrary_Success.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="78953579"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ObjectLists/>
+							<ActiveSourceList>
+								<ActiveSource Name="SFX_UILibrary_Success" ID="{9225ED91-A7FD-4945-A377-6BC9A29AA03B}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="SFX_UILibrary_Success-001" ID="{77D87685-1EA5-4DF5-BE7E-9D59AFF0AC0F}" ShortID="347752658">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{A7933FE4-7CD0-42C7-8C37-D961C70F523D}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{189BC967-7719-4FC3-A802-EB73A67AD252}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="SFX_UILibrary_Success-001" ID="{951E17EB-DC84-42FC-8A52-D08E2D6D38FC}">
+									<Language>SFX</Language>
+									<AudioFile>SFX_UILibrary_Success-001.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="347709200"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ObjectLists/>
+							<ActiveSourceList>
+								<ActiveSource Name="SFX_UILibrary_Success-001" ID="{951E17EB-DC84-42FC-8A52-D08E2D6D38FC}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="SFX_UILibrary_Success-002" ID="{D133C9DD-2408-4FF7-9C57-060B3C57D227}" ShortID="420598314">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{A7933FE4-7CD0-42C7-8C37-D961C70F523D}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{189BC967-7719-4FC3-A802-EB73A67AD252}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="SFX_UILibrary_Success-002" ID="{361AFF90-B0D5-472B-881B-4F809E20E383}">
+									<Language>SFX</Language>
+									<AudioFile>SFX_UILibrary_Success-002.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="965785891"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ObjectLists/>
+							<ActiveSourceList>
+								<ActiveSource Name="SFX_UILibrary_Success-002" ID="{361AFF90-B0D5-472B-881B-4F809E20E383}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="SFX_UILibrary_Success-003" ID="{E8D0AE73-26F3-4E0B-95C8-DEFA2AAF4F4B}" ShortID="887326952">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{A7933FE4-7CD0-42C7-8C37-D961C70F523D}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{189BC967-7719-4FC3-A802-EB73A67AD252}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="SFX_UILibrary_Success-003" ID="{D046336C-14C2-43B6-ADD5-88906D82F9E4}">
+									<Language>SFX</Language>
+									<AudioFile>SFX_UILibrary_Success-003.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="852424117"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ObjectLists/>
+							<ActiveSourceList>
+								<ActiveSource Name="SFX_UILibrary_Success-003" ID="{D046336C-14C2-43B6-ADD5-88906D82F9E4}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="SFX_UILibrary_Success-004" ID="{AE36FB49-5409-42E5-9BB2-CC434FCE1302}" ShortID="477288030">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{A7933FE4-7CD0-42C7-8C37-D961C70F523D}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{189BC967-7719-4FC3-A802-EB73A67AD252}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="SFX_UILibrary_Success-004" ID="{A2FEC5F9-78F6-485E-B0DD-635AE709D9B0}">
+									<Language>SFX</Language>
+									<AudioFile>SFX_UILibrary_Success-004.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="423326849"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ObjectLists/>
+							<ActiveSourceList>
+								<ActiveSource Name="SFX_UILibrary_Success-004" ID="{A2FEC5F9-78F6-485E-B0DD-635AE709D9B0}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+					</ChildrenList>
+					<ObjectLists/>
+				</RandomSequenceContainer>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>
