@@ -1,0 +1,69 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "12",
+  "SoundbankVersion": "140",
+  "RootPaths": {
+   "ProjectRoot": "D:\\Unreal\\Projects\\Encanis\\Encanis_WwiseProject\\",
+   "SourceFilesRoot": "D:\\Unreal\\Projects\\Encanis\\Encanis_WwiseProject\\.cache\\Mac\\",
+   "SoundBanksRoot": "D:\\Unreal\\Projects\\Encanis\\Encanis_WwiseProject\\GeneratedSoundBanks\\Mac\\",
+   "ExternalSourcesInputFile": "",
+   "ExternalSourcesOutputRoot": "D:\\Unreal\\Projects\\Encanis\\Encanis_WwiseProject\\GeneratedSoundBanks\\Mac"
+  },
+  "SoundBanks": [
+   {
+    "Id": "3161908922",
+    "GUID": "{F81EB9CE-DB49-457C-84AE-D72A1DA0117B}",
+    "Language": "SFX",
+    "Hash": "3161419666",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\Main",
+    "ShortName": "Main",
+    "Path": "Main.bnk",
+    "IncludedEvents": [
+     {
+      "Id": "3038207054",
+      "Name": "Shoot",
+      "ObjectPath": "\\Events\\Default Work Unit\\Shoot",
+      "GUID": "{79545ED8-9160-41BB-A98E-4B1452732066}",
+      "DurationType": "OneShot",
+      "DurationMin": "1.547279",
+      "DurationMax": "2.237710",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "78953579",
+        "Language": "SFX",
+        "ShortName": "SFX_UILibrary_Success.wav",
+        "Path": "SFX\\SFX_UILibrary_Success_10C4C929.wem"
+       },
+       {
+        "Id": "347709200",
+        "Language": "SFX",
+        "ShortName": "SFX_UILibrary_Success-001.wav",
+        "Path": "SFX\\SFX_UILibrary_Success-001_10C4C929.wem"
+       },
+       {
+        "Id": "423326849",
+        "Language": "SFX",
+        "ShortName": "SFX_UILibrary_Success-004.wav",
+        "Path": "SFX\\SFX_UILibrary_Success-004_10C4C929.wem"
+       },
+       {
+        "Id": "852424117",
+        "Language": "SFX",
+        "ShortName": "SFX_UILibrary_Success-003.wav",
+        "Path": "SFX\\SFX_UILibrary_Success-003_10C4C929.wem"
+       },
+       {
+        "Id": "965785891",
+        "Language": "SFX",
+        "ShortName": "SFX_UILibrary_Success-002.wav",
+        "Path": "SFX\\SFX_UILibrary_Success-002_10C4C929.wem"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}
